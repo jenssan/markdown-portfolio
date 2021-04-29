@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Cake
+2. Ice Cream
+  * Chocolate
+  * Vanilla
+3. Pudding
+4. Cereal
