@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Sandra Jensen Fritsche
+## Playing with
+### GitHub
