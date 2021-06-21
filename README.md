@@ -1,3 +1,10 @@
+<details>
+<summary><b>My section header in bold</b></summary>
+
+Any folded content here. It requires an empty line just above it.
+
+</details>
+
 ## Your GitHub Learning Lab Repository for Communicating Using Markdown
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
